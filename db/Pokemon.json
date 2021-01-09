@@ -1,0 +1,51 @@
+[ {
+  "id" : "iED1rgvRhum5JCE8nfDS5",
+  "number" : 63,
+  "name" : "Abra",
+  "ability" : "Inner Focus",
+  "height" : 0.9,
+  "weight" : 19.5,
+  "type" : "Psychic",
+  "trivia" : "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.",
+  "imageUrl" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png"
+}, {
+  "id" : "9Fq83Yl_1nyUMrIKDZmVp",
+  "number" : 133,
+  "name" : "Eevee",
+  "ability" : "Inner Focus",
+  "height" : 0.3,
+  "weight" : 6.5,
+  "type" : "Normal",
+  "trivia" : "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+  "imageUrl" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png"
+}, {
+  "id" : "HH8mrCElqLxa6YfDfkkDx",
+  "number" : 134,
+  "name" : "Vaporeon",
+  "ability" : "Water Absorb",
+  "height" : 1.0,
+  "weight" : 29.0,
+  "type" : "Water",
+  "trivia" : "Its cell composition is similar to water molecules. As a result, it cant be seen when it melts away into water.",
+  "imageUrl" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png"
+}, {
+  "id" : "boKcFSEenikCYIRk2gJ6K",
+  "number" : 135,
+  "name" : "Jolteon",
+  "ability" : "Volt Absorb",
+  "height" : 0.8,
+  "weight" : 24.5,
+  "type" : "Electric",
+  "trivia" : "By storing electricity in its body, it can shoot its bristlelike fur like a barrage of missiles.",
+  "imageUrl" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png"
+}, {
+  "id" : "JnVyY6v3_kXoHu2OPiXTB",
+  "number" : 136,
+  "name" : "Flareon",
+  "ability" : "Flash Fire",
+  "height" : 0.9,
+  "weight" : 25.0,
+  "type" : "Fire",
+  "trivia" : "Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees F.",
+  "imageUrl" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png"
+} ]
